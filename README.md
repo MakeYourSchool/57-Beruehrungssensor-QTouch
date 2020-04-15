@@ -21,8 +21,8 @@ Das Repository basiert grundlegend auf den veröffentlichten Informationen und C
 
 **Weitere Informationen:**
 
-[Repository von Seed Studio](https://github.com/Seeed-Studio/Seeed_QTouch)
+[Repository von Seeed Studio](https://github.com/Seeed-Studio/Seeed_QTouch)
 
-[Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove-Q_Touch_Sensor/)
+[Offizielles Wiki von Seeed Studio](http://wiki.seeedstudio.com/Grove-Q_Touch_Sensor/)
 
-[Materialkoffer von Make Your School](https://www.makeyourschool.de/material/beruehrungssensor-qtouch/)
+[Materialkoffer von *Make Your School*](https://www.makeyourschool.de/material/beruehrungssensor-qtouch/)
